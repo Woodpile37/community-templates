@@ -20,7 +20,7 @@
     <name>Test Spring Boot and Micrometer with InfluxDB and Grafana</name>
 
     <properties>
-        <micrometer.version>1.7.2</micrometer.version>
+        <micrometer.version>1.10.4</micrometer.version>
     </properties>
 
     <build>
